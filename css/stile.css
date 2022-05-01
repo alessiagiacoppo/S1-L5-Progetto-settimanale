@@ -1,0 +1,124 @@
+html {
+    font-size: 100%;
+    
+   
+   
+}
+
+    
+
+header {
+    background-color: black;
+    margin: auto;
+    padding: none;
+    
+}
+#box1 {
+
+
+background-color: white;
+width: 250px;
+height: 350px;
+border: 2px solid white;
+margin: 10px;
+padding: 20px;
+text-align: center;
+background-image: url(../img/primafoto.jpg);
+background-size: cover; 
+}
+
+
+
+
+
+#box1 h1
+{
+    color: rgb(68, 0, 255);
+    font-family: 'Open Sans', sans-serif;
+    }
+#box1 p {
+color: black;
+font-family: 'Open Sans', sans-serif;
+}
+
+div > h3 {
+color: rgb(68, 0, 255);
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    border: 20px;
+}
+div > p {
+    color: black;
+font-family: 'Open Sans', sans-serif;
+
+}
+
+
+#box2  img{
+    border-radius: 50%;
+    width: 250px;
+height: 250px;
+border: 2px solid white;
+margin: 10px;
+padding: 20px;
+}
+
+#conteiner {
+    background-color: rgb(253, 0, 0);
+    background-repeat: repeat-y;
+    width: 250px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin: 20px;
+    
+}
+
+    #conteiner p {
+        color: white;
+}
+
+
+#box3 img{
+   
+    width: 250px;
+    height: 250x;
+    margin: 20px;
+   }
+
+   #box3 h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: blue;
+    
+ }
+ #box3 p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#box4 img {
+
+    width: 250px;
+    height: 250x;
+    margin: 20px;
+    
+   
+}
+#box5 img {
+    width: 250px;
+    height: 250x;
+    margin: 20px;
+    
+   
+}
+#box6 {
+    background-color: rgb(25, 139, 130);
+     width: 300px;
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     color: white;
+}
+#box6 p {
+    font-family: 'Open Sans', sans-serif;
+     color: white;
+     
+}
